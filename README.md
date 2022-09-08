@@ -1,7 +1,7 @@
 # Marketing Refactor, Challenge 1
 Refactored with semantic html and css consolidation
 ## Link to site
-http://127.0.0.1:5500/urban-octo-telegram/Develop/ 
+http://127.0.0.1:5500/index.html
 
 
 ## 📝 Notes
